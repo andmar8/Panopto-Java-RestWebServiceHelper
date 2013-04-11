@@ -12,7 +12,7 @@ Requirements
 How to compile
 --------------
 
-Follow the instructions in for the respective required libraries to compile up their jars and then add them to the project like so (the names of the jars/libraries are as an example)...
+Follow the instructions for the respective required libraries to compile up their jars and then add them to the project like so (the names of the jars/libraries are as an example)...
 
 1. PanoptoAxis1.6.2.jar
 2. PanoptoSerializableObjects.jar
